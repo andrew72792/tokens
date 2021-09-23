@@ -1,0 +1,15 @@
+{
+  "symbol": "MATIC",
+  "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+  "decimals": 1,
+  "name": "MAATIC",
+  "type": "ERC20",
+  "ens_address": "",
+  "logo": {
+    "src": "https://i.ibb.co/jV6Ymn4/youc-lolo-square-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+
+}
